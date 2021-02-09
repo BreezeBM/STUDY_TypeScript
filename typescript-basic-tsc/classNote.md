@@ -86,4 +86,15 @@ person.anybody = 'Anna'
 
 Person에 프로퍼티 명으로 스트링 타입이 들어갈 수 있고, 해당 프로퍼티의 값은 스트링으로 들어가야 한다.
 
-##### class implements interface (16' 15'')
+##### class implements interface
+
+##### interface extends interface
+
+##### function interface
+
+##### indexable type
+
+##### class
+
+1. private으로 설정된 프로퍼티는 dot으로 접근할 수 없다.
+2. 클래스 내부에서는 private 프로퍼티를 사용할 수 있다.
